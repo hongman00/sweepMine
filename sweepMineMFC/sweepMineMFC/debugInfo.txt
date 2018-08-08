@@ -1,0 +1,6 @@
+[SetMineMap] right:485, left:0, m_mineMapSize:10, bmWidth:40, m_widthOffset:42
+[ResetMineMap] m_mineList.size():0
+[ShowMineMap] cnt:100
+[SetMineMap] right:390, left:0, m_mineMapSize:1, bmWidth:40, m_widthOffset:175
+[ResetMineMap] m_mineList.size():0
+[ShowMineMap] cnt:1
